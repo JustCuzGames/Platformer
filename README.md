@@ -1,3 +1,3 @@
 # Platformer
 Platformer
-Platform game dev created by JustCuzGames.
+Platform game dev created by LordAniket.
